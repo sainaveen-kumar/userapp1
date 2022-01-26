@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="deleteNoticeImage" type="id" />
+    <item name="deleteNoticeTitle" type="id" />
+    <item name="date" type="id" />
+    <item name="dtime" type="id" />
+</resources>
